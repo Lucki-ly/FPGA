@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jul 31 10:35:59 2020
+# Process ID: 17148
+# Current directory: D:/FPGA project/Color Recognition/Color_Demo
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11044 D:\FPGA project\Color Recognition\Color_Demo\Color_Demo.xpr
+# Log file: D:/FPGA project/Color Recognition/Color_Demo/vivado.log
+# Journal file: D:/FPGA project/Color Recognition/Color_Demo\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/FPGA project/Color Recognition/Color_Demo/Color_Demo.xpr}
+update_compile_order -fileset sources_1

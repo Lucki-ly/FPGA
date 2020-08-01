@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jul 31 10:46:38 2020
+# Process ID: 7936
+# Current directory: D:/FPGA project/Color Recognition/Color_Demo/Color_Demo.runs/synth_1
+# Command line: vivado.exe -log Color_Demo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Color_Demo.tcl
+# Log file: D:/FPGA project/Color Recognition/Color_Demo/Color_Demo.runs/synth_1/Color_Demo.vds
+# Journal file: D:/FPGA project/Color Recognition/Color_Demo/Color_Demo.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Color_Demo.tcl -notrace
